@@ -1,0 +1,5 @@
+getID3()  v1.8.5-20110218
+James Heinrich
+info@getid3.org
+http://getid3.sourceforge.net
+http://www.getid3.org
